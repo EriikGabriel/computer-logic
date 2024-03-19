@@ -9,11 +9,11 @@
     <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=1e436b&labelColor=181818&style=for-the-badge" alt="License" />
   </a>
   
-  <img src="https://img.shields.io/github/forks/EriikGabriel/ufscar-planner?label=forks&message=MIT&color=1e436b&labelColor=181818&style=for-the-badge" alt="Forks"/>
+  <img src="https://img.shields.io/github/forks/EriikGabriel/computer-logic?label=forks&message=MIT&color=1e436b&labelColor=181818&style=for-the-badge" alt="Forks"/>
 
-  <img src="https://img.shields.io/github/stars/EriikGabriel/ufscar-planner?label=stars&message=MIT&color=1e436b&labelColor=181818&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/EriikGabriel/computer-logic?label=stars&message=MIT&color=1e436b&labelColor=181818&style=for-the-badge" alt="Stars" />
 
-  <a href="https://vercel.com/eriikgabriel/ufscar-planner" target="_blank">
+  <a href="https://vercel.com/eriikgabriel/computer-logic" target="_blank">
     <img src="https://img.shields.io/github/deployments/EriikGabriel/ufscar-planner/production?label=Vercel&logo=vercel&logoColor=white&style=for-the-badge&labelColor=181818" />
   </a>
 </p>
